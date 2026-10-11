@@ -1,0 +1,115 @@
+{
+  "PatientName": "Jeffrey Epstein",
+  "TrackedVitals": [
+    "BloodPressure",
+    "BloodGlucose",
+    "Oxygen",
+    "Weight"
+  ],
+  "Readings": [
+    {
+      "RecordedAt": "2026-05-25T18:38:00",
+      "Systolic": 93,
+      "Diastolic": 59,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-05-26T03:01:27",
+      "Systolic": 0,
+      "Diastolic": 0,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 365
+    },
+    {
+      "RecordedAt": "2026-05-26T17:57:00",
+      "Systolic": 105,
+      "Diastolic": 65,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-05-27T17:46:00",
+      "Systolic": 104,
+      "Diastolic": 65,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-05-28T17:20:00",
+      "Systolic": 110,
+      "Diastolic": 67,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-05-29T17:53:00",
+      "Systolic": 109,
+      "Diastolic": 68,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-06-01T20:32:00",
+      "Systolic": 117,
+      "Diastolic": 71,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-06-02T17:52:00",
+      "Systolic": 110,
+      "Diastolic": 66,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-06-03T17:57:00",
+      "Systolic": 91,
+      "Diastolic": 59,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-06-04T18:14:00",
+      "Systolic": 97,
+      "Diastolic": 61,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-06-05T23:16:00",
+      "Systolic": 100,
+      "Diastolic": 67,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-06-09T20:50:00",
+      "Systolic": 113,
+      "Diastolic": 75,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    },
+    {
+      "RecordedAt": "2026-06-10T17:57:00",
+      "Systolic": 101,
+      "Diastolic": 71,
+      "Glucose": 0,
+      "Oxygen": 0,
+      "WeightKg": 0
+    }
+  ]
+}
